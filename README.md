@@ -6,4 +6,8 @@ JSP 기반의 회원관리 세미프로젝트
 - MySQL 버전 8.0.32**
 - Bootstrap 버전 3.3.7**
 
-![1](https://user-images.githubusercontent.com/128597230/226904908-a896ad9a-2f17-4008-9b16-d946b1c4660d.png)
+
+
+
+https://user-images.githubusercontent.com/128597230/226905835-065d73ee-3637-492d-bd90-d4f06d1e6a83.mp4
+
