@@ -1,4 +1,4 @@
-JSP 기반의 회원관리 세미프로젝트 
+JSP 기반의 회원관리리스트 (회원가입,검색기능구현) 세미프로젝트 
 
 - 개발환경 
 - Java 버전 1.7**
@@ -9,5 +9,8 @@ JSP 기반의 회원관리 세미프로젝트
 
 
 
-https://user-images.githubusercontent.com/128597230/226905835-065d73ee-3637-492d-bd90-d4f06d1e6a83.mp4
+
+
+
+https://user-images.githubusercontent.com/128597230/226907089-1339bd3d-5429-4e64-90ea-849491a4464d.mp4
 
