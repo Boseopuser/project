@@ -13,10 +13,9 @@ JSP 기반의 회원관리리스트 (회원가입,검색기능구현) 개인 세
 
 <a href="https://iconscout.com/icons/apache" target="_blank">Apache Icon</a> by <a href="https://iconscout.com/contributors/icon-mafia">Icon Mafia</a> on <a href="https://iconscout.com">IconScout</a>
 
+-    ![github](https://user-images.githubusercontent.com/128597230/227870746-30712ad9-9811-41de-904c-64829caf236f.png)
 
 
 
 https://user-images.githubusercontent.com/128597230/226907089-1339bd3d-5429-4e64-90ea-849491a4464d.mp4
 
-
-- ![github](https://user-images.githubusercontent.com/128597230/227870560-dd261cb2-576f-44a3-ba4e-d801671758bd.png)
