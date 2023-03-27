@@ -11,7 +11,7 @@
 <a href = "https://github.com/Hun-Se"><img alt="Apache" src ="https://img.shields.io/badge/Apache-D22128.svg?&style=for-the-badge&logo=Apache&logoColor=white"/>
 <a href = "https://github.com/Hun-Se"><img alt="Visual Studio Code" src ="https://img.shields.io/badge/Visual Studio Code-007ACC.svg?&style=for-the-badge&logo=Visual Studio Code&logoColor=white"/> <a href = "https://github.com/Hun-Se"><img alt="MySQL" src ="https://img.shields.io/badge/MySQL-1572B6.svg?&style=for-the-badge&logo=MySQL&logoColor=white"/> <a href = "https://github.com/Hun-Se"><img alt="Eclipse IDE" src ="https://img.shields.io/badge/Eclipse IDE-2C2255.svg?&style=for-the-badge&logo=Eclipse IDE&logoColor=white"/> <a href = "https://github.com/Hun-Se"><img alt="Oracle" src ="https://img.shields.io/badge/Oracle-F80000.svg?&style=for-the-badge&logo=Oracle&logoColor=white"/>
 
-# JSP 기반의 회원관리리스트 (회원가입,검색기능구현) 개인 세미프로젝트 
+# JSP 기반의 회원관리리스트 (회원가입,검색기능구현)
 
 - #개발환경 
 - Microsoft Windows 10 v22H2
