@@ -10,8 +10,7 @@ JSP 기반의 회원관리리스트 (회원가입,검색기능구현) 개인 세
 - Bootstrap version 3.3.7**
 - Apache Tomcat v9.0.73
 - HTML5 , CSS3 , JavaScript (ES5, ES6) , AJax
-- ![github (1)](https://user-images.githubusercontent.com/128597230/227871139-24e8feb4-965c-445a-9075-393cbe6f7a32.png) ![apache (4)](https://user-images.githubusercontent.com/128597230/227871171-c4fe119b-0e1e-47d5-b9f3-4808c1618fb9.png)![html](https://user-images.githubusercontent.com/128597230/227871608-dce7384c-7235-4e4c-ba16-249639899d66.png)
-
+- ![github (1)](https://user-images.githubusercontent.com/128597230/227871139-24e8feb4-965c-445a-9075-393cbe6f7a32.png) ![apache (4)](https://user-images.githubusercontent.com/128597230/227871171-c4fe119b-0e1e-47d5-b9f3-4808c1618fb9.png)
 
 
 
