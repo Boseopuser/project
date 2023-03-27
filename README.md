@@ -11,9 +11,6 @@ JSP 기반의 회원관리리스트 (회원가입,검색기능구현) 개인 세
 - Apache Tomcat v9.0.73
 - HTML5 , CSS3 , JavaScript (ES5, ES6) , AJax
 
-<a href="https://iconscout.com/icons/apache" target="_blank">Apache Icon</a> by <a href="https://iconscout.com/contributors/icon-mafia">Icon Mafia</a> on <a href="https://iconscout.com">IconScout</a>
-
--    ![github](https://user-images.githubusercontent.com/128597230/227870746-30712ad9-9811-41de-904c-64829caf236f.png)
 
 
 
